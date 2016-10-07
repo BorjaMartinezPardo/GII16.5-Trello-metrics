@@ -1,0 +1,2 @@
+# GII16.5-Trello-metrics
+Crear un "power up" para Trello que permita medir la características de uso de un tablero (velocidad contantes, participación, colaboración, representación del trabajo en la línea de tiempo...) de un tablero. Consultar la documentación para crear extensiones de Trello https://developers.trello.com/power-ups/intro A patir de estos datos crear sistemas de visualización de los datos utilizando la biblioteca D3.js https://d3js.org/
